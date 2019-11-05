@@ -20,6 +20,7 @@ body{
   	background-attachment: fixed;
 	margin-top:50px;
 	margin-bottom: -100px;
+	text-align: justify;
 }
 
 .icon-bar {
@@ -44,6 +45,10 @@ body{
     }
 
 }
+.produtos{
+	margin-left: 250px;
+}
+
 .produtos img{
 	width: 100%;
 	font-color:;
@@ -71,6 +76,7 @@ nav a{
 .categorias{
 	padding: 0;
 	border:1px solid #BDBDBD ;
+	position: fixed;
 }
 
 footer{
